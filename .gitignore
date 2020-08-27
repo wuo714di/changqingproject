@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*.class
+.gitignore
+common/target/classes/com/cq/
+common/target/generated-sources/
+common/target/generated-test-sources/
+cqapplication/target/classes/application.properties
+cqapplication/target/generated-sources/

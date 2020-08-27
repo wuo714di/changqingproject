@@ -2,8 +2,6 @@ package com.cq.controller;
 
 import com.cq.entity.AccountEntity;
 import com.cq.service.AccountService;
-import net.bytebuddy.build.Plugin;
-import org.omg.CORBA.INTERNAL;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

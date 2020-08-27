@@ -1,13 +1,13 @@
 package com.cq.service.imp;
 
-import com.baomidou.mybatisplus.mapper.EntityWrapper;
+
+
+import com.cq.commonEntity.EntityWrapper;
 import com.cq.dao.AccountDao;
 import com.cq.entity.AccountEntity;
 import com.cq.service.AccountService;
-import org.omg.PortableInterceptor.INACTIVE;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.TransactionDefinition;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -31,6 +31,7 @@ public  class AccountServiceImp  implements AccountService {
         this.get();
        // int propagationNever = TransactionDefinition.PROPAGATION_NEVER;
         EntityWrapper<AccountEntity> wrapper = new EntityWrapper<>();
+
         wrapper.eq("account_code","tianyalan").or().eq("account_age",1113);
         List<AccountEntity> accountEntities = accountDao.selectList(wrapper);
         System.out.println(a);

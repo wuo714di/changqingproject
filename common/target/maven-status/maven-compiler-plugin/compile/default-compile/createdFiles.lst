@@ -1,1 +1,3 @@
-com\changqing\utils\OrikaMapperUtils.class
+com\cq\commonEntity\BaseDao.class
+com\cq\utils\OrikaMapperUtils.class
+com\cq\commonEntity\EntityWrapper.class

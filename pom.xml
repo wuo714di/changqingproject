@@ -58,7 +58,22 @@
             <artifactId>log4j</artifactId>
             <version>2.13.2</version>
         </dependency>-->
-
+        <!-- <dependency>
+               <groupId>com.nebulapaas</groupId>
+               <artifactId>nebula-paas-data-mybatis</artifactId>
+               <version>1.2.33-SNAPSHOT</version>
+           </dependency>-->
+        <!-- mybatis plus 依赖 -->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <!-- <dependency>
+             <groupId>org.mybatis</groupId>
+             <artifactId>mybatis</artifactId>
+             <version>3.4.5</version>
+         </dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -72,5 +87,19 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring-boot-maven-plugin.version>1.4.3.RELEASE</spring-boot-maven-plugin.version>
     </properties>
+    <!--打包依赖-->
+    <!--打包的依赖必须有启动类才可以-->
+ <!--   <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>${spring-boot-maven-plugin.version}</version>
+                <configuration>
+                    <mainClass>com.cq.CqApplication.java</mainClass>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>-->
 
 </project>

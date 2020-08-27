@@ -1,6 +1,6 @@
 package com.cq;
 
-import com.changqing.utils.OrikaMapperUtils;
+import com.cq.utils.OrikaMapperUtils;
 import com.cq.BO.UserBO;
 import com.cq.dto.UserDTO;
 import lombok.extern.slf4j.Slf4j;

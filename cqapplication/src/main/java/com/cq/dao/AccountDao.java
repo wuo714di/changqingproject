@@ -1,7 +1,11 @@
 package com.cq.dao;
 
+
+
+
+import com.cq.commonEntity.BaseDao;
 import com.cq.entity.AccountEntity;
-import com.nebulapaas.data.mybatis.common.BaseDao;
+
 import org.apache.ibatis.annotations.Mapper;
 
 /**
@@ -11,4 +15,5 @@ import org.apache.ibatis.annotations.Mapper;
  */
 @Mapper
 public interface AccountDao extends BaseDao<AccountEntity> {
+
 }
