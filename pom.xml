@@ -89,7 +89,7 @@
     </properties>
     <!--打包依赖-->
     <!--打包的依赖必须有启动类才可以-->
- <!--   <build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -100,6 +100,6 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>-->
+    </build>
 
 </project>

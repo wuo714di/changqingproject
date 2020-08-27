@@ -20,61 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7e29ad-c3be-4f7e-82e9-b029fbb32e19" name="Default Changelist" comment="报错，找不到commom中的包">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/changqingproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/cq/commonEntity/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/cq/commonEntity/EntityWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cqapplication/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq/PropertiesStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/cqcommon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com.changqing/utils/OrikaMapperUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/cq/utils/OrikaMapperUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/changqing/utils/OrikaMapperUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/test-classes/com/common.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/test-classes/com/common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/cqapplication.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cqapplication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/CqApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/CqApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/controller/EntityWrapperDemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/controller/EntityWrapperDemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/dao/AccountDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/entity/AccountEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/entity/AccountEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/service/imp/AccountServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/service/imp/AccountServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq/OriDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq/OriDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/BO/UserBO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/CqApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/TestDemo/ProxyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/controller/EntityWrapperDemoController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/controller/EntityWrapperDemoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/dao/AccountDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/dto/BigUserDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/dto/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/dto/UserDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/entity/AccountEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/service/AccountService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/service/imp/AccountServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/com/cq/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/classes/dao/AccountMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/cqapplication-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/cqapplication-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/test-classes/com/cq/OriDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/test-classes/com/cq/OriDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/test-classes/com/cq/OriDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/test-classes/com/cq/ReflectionDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/target/test-classes/com/cq/ReflectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +83,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -152,10 +105,13 @@
       <recent name="com.changqing.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PropertiesStream.test1">
-    <configuration name="EntityWrapperDemoController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cq.controller.EntityWrapperDemoController" />
+  <component name="RunManager" selected="Application.CqApplication">
+    <configuration name="CqApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../java/jdk" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.cq.CqApplication" />
       <module name="cqapplication" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../java/jdk" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cq.controller.*" />
@@ -237,12 +193,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CqApplication" />
+      <item itemvalue="JUnit.PropertiesStream.test1" />
+      <item itemvalue="JUnit.ReflectionDemo.test4" />
+      <item itemvalue="JUnit.ReflectionDemo.test5" />
+      <item itemvalue="JUnit.ReflectionDemo.test6" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PropertiesStream.test1" />
         <item itemvalue="JUnit.ReflectionDemo.test5" />
         <item itemvalue="JUnit.ReflectionDemo.test4" />
-        <item itemvalue="Application.EntityWrapperDemoController" />
         <item itemvalue="JUnit.ReflectionDemo.test6" />
       </list>
     </recent_temporary>
@@ -279,6 +241,14 @@
       <workItem from="1596175071368" duration="3386000" />
       <workItem from="1596417689523" duration="21930000" />
     </task>
+    <task id="LOCAL-00001" summary="报错，找不到commom中的包">
+      <created>1598497439779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598497439779</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -340,34 +310,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="832" y="415" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1598495727761" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598523186758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598523186758" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1598439749245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598439749245" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598523068010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598523068010" />
     <state x="736" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598441343583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598441343583" />
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1598434150669">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1598523160008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598434150669" />
-    <state width="1877" height="389" key="GridCell.Tab.0.bottom" timestamp="1598497194780">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598523160008" />
+    <state width="1877" height="105" key="GridCell.Tab.0.bottom" timestamp="1598523955867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598497194780" />
-    <state width="1877" height="389" key="GridCell.Tab.0.center" timestamp="1598497194780">
+    <state width="1877" height="105" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
+    <state width="1877" height="105" key="GridCell.Tab.0.center" timestamp="1598523955867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598497194780" />
-    <state width="1877" height="389" key="GridCell.Tab.0.left" timestamp="1598497194780">
+    <state width="1877" height="105" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
+    <state width="1877" height="105" key="GridCell.Tab.0.left" timestamp="1598523955867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598497194780" />
-    <state width="1877" height="389" key="GridCell.Tab.0.right" timestamp="1598497194780">
+    <state width="1877" height="105" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
+    <state width="1877" height="105" key="GridCell.Tab.0.right" timestamp="1598523955867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598497194780" />
+    <state width="1877" height="105" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1598523642437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
+    <state width="1877" height="388" key="GridCell.Tab.1.center" timestamp="1598523642437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
+    <state width="1877" height="388" key="GridCell.Tab.1.left" timestamp="1598523642437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
+    <state width="1877" height="388" key="GridCell.Tab.1.right" timestamp="1598523642437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
     <state x="697" y="221" key="RollbackChangesDialog" timestamp="1598495261976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -376,6 +370,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598495771246" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598497774177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598497774177" />
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598438378829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
