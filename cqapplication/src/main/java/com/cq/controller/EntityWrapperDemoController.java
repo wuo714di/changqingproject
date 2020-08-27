@@ -42,10 +42,6 @@ public class EntityWrapperDemoController {
         test5();
     }
 
-    public static void main(String[] args) {
-        test5();
-    }
-
     public static void test5() {
 
         // ReflectionDemo.get(1,"小明");
