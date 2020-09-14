@@ -1,3 +1,4 @@
-com\cq\commonEntity\BaseDao.class
-com\cq\utils\OrikaMapperUtils.class
-com\cq\commonEntity\EntityWrapper.class
+com\cq1\CommonApplication.class
+com\cq1\commonEntity\BaseDao.class
+com\cq1\utils\OrikaMapperUtils.class
+com\cq1\commonEntity\EntityWrapper.class

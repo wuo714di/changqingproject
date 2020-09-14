@@ -3,8 +3,8 @@ package com.cq.dao;
 
 
 
-import com.cq.commonEntity.BaseDao;
 import com.cq.entity.AccountEntity;
+import com.cq1.commonEntity.BaseDao;
 
 import org.apache.ibatis.annotations.Mapper;
 

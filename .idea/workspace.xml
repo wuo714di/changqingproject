@@ -19,15 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7e29ad-c3be-4f7e-82e9-b029fbb32e19" name="Default Changelist" comment="报错，找不到commom中的包">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cc7e29ad-c3be-4f7e-82e9-b029fbb32e19" name="Default Changelist" comment="还是报错">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/cq/commonEntity/BaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/cq1/commonEntity/BaseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/cq/commonEntity/EntityWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/cq1/commonEntity/EntityWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/cq/utils/OrikaMapperUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/cq1/utils/OrikaMapperUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/cqcommon-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cqapplication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/CqApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/CqApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/controller/EntityWrapperDemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/controller/EntityWrapperDemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/service/imp/AccountServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/main/java/com/cq/service/imp/AccountServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq/OriDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq1/OriDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq/PropertiesStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq1/PropertiesStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq/ReflectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/cqapplication/src/test/java/com/cq1/ReflectionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +65,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\java\maven\apache-maven-3.6.3-bin\repository" />
-        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settingsyuanban.xml" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -83,7 +93,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -92,10 +102,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -105,19 +115,61 @@
       <recent name="com.changqing.utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CqApplication">
+  <component name="RunManager" selected="Application.CommonApplication">
+    <configuration name="CommonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cq1.CommonApplication" />
+      <module name="cqcommon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cq1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CqApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../java/jdk" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.cq.CqApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.cq1.CqApplication" />
       <module name="cqapplication" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../java/jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cq.controller.*" />
+          <option name="PATTERN" value="com.cq1.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EntityWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cq1.commonEntity.EntityWrapper" />
+      <module name="cqcommon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cq1.commonEntity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OriDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cqapplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cq1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cq1" />
+      <option name="MAIN_CLASS_NAME" value="com.cq1.OriDemo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,29 +178,13 @@
       <module name="cqapplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cq.*" />
+          <option name="PATTERN" value="com.cq1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cq" />
-      <option name="MAIN_CLASS_NAME" value="com.cq.PropertiesStream" />
+      <option name="PACKAGE_NAME" value="com.cq1" />
+      <option name="MAIN_CLASS_NAME" value="com.cq1.PropertiesStream" />
       <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionDemo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cqapplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cq.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cq" />
-      <option name="MAIN_CLASS_NAME" value="com.cq.ReflectionDemo" />
-      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,29 +194,13 @@
       <module name="cqapplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cq.*" />
+          <option name="PATTERN" value="com.cq1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cq" />
-      <option name="MAIN_CLASS_NAME" value="com.cq.ReflectionDemo" />
+      <option name="PACKAGE_NAME" value="com.cq1" />
+      <option name="MAIN_CLASS_NAME" value="com.cq1.ReflectionDemo" />
       <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionDemo.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cqapplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cq.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cq" />
-      <option name="MAIN_CLASS_NAME" value="com.cq.ReflectionDemo" />
-      <option name="METHOD_NAME" value="test6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,16 +216,18 @@
     <list>
       <item itemvalue="Application.CqApplication" />
       <item itemvalue="JUnit.PropertiesStream.test1" />
-      <item itemvalue="JUnit.ReflectionDemo.test4" />
       <item itemvalue="JUnit.ReflectionDemo.test5" />
-      <item itemvalue="JUnit.ReflectionDemo.test6" />
+      <item itemvalue="JUnit.OriDemo.test1" />
+      <item itemvalue="Application.EntityWrapper" />
+      <item itemvalue="Application.CommonApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonApplication" />
+        <item itemvalue="Application.EntityWrapper" />
+        <item itemvalue="JUnit.OriDemo.test1" />
         <item itemvalue="JUnit.PropertiesStream.test1" />
         <item itemvalue="JUnit.ReflectionDemo.test5" />
-        <item itemvalue="JUnit.ReflectionDemo.test4" />
-        <item itemvalue="JUnit.ReflectionDemo.test6" />
       </list>
     </recent_temporary>
   </component>
@@ -248,40 +270,22 @@
       <option name="project" value="LOCAL" />
       <updated>1598497439779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="还是报错">
+      <created>1598524349090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598524349090</updated>
+    </task>
+    <task id="LOCAL-00003" summary="还是报错">
+      <created>1598524362425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598524362425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 39m 04s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 42m 22s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 44m 30s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 48m 53s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 50m 47s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 52m 36s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 10h 55m 02s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 11h 11m 35s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test4 - 2020.08.06 at 11h 12m 20s.xml">
-      <configuration name="ReflectionDemo.test4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReflectionDemo_test5 - 2020.08.06 at 14h 11m 25s.xml">
-      <configuration name="ReflectionDemo.test5" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="107429000" />
@@ -303,21 +307,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="报错，找不到commom中的包" />
-    <option name="LAST_COMMIT_MESSAGE" value="报错，找不到commom中的包" />
+    <MESSAGE value="还是报错" />
+    <option name="LAST_COMMIT_MESSAGE" value="还是报错" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="832" y="415" key="#Custom_Plugin_Repositories" timestamp="1598495727761">
+    <state x="832" y="415" key="#Custom_Plugin_Repositories" timestamp="1598842590705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="832" y="415" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1598495727761" />
+    <state x="832" y="415" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1598842590705" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600053577874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600053577874" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598523186758">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598523186758" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1598439749245">
+    <state x="716" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599720697213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598439749245" />
+    <state x="716" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599720697213" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1598596079445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598596079445" />
     <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598523068010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -326,54 +339,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="383" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598441343583" />
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1598523160008">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1599719652136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598523160008" />
-    <state width="1877" height="105" key="GridCell.Tab.0.bottom" timestamp="1598523955867">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599719652136" />
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom" timestamp="1600054025436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="105" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
-    <state width="1877" height="105" key="GridCell.Tab.0.center" timestamp="1598523955867">
+    <state width="1877" height="392" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600054025436" />
+    <state width="1877" height="392" key="GridCell.Tab.0.center" timestamp="1600054025436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="105" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
-    <state width="1877" height="105" key="GridCell.Tab.0.left" timestamp="1598523955867">
+    <state width="1877" height="392" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600054025436" />
+    <state width="1877" height="392" key="GridCell.Tab.0.left" timestamp="1600054025436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="105" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
-    <state width="1877" height="105" key="GridCell.Tab.0.right" timestamp="1598523955867">
+    <state width="1877" height="392" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600054025436" />
+    <state width="1877" height="392" key="GridCell.Tab.0.right" timestamp="1600054025436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="105" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598523955867" />
-    <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1598523642437">
+    <state width="1877" height="392" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600054025436" />
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1598524875832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
-    <state width="1877" height="388" key="GridCell.Tab.1.center" timestamp="1598523642437">
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598524875832" />
+    <state width="1877" height="388" key="GridCell.Tab.1.center" timestamp="1598524875831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
-    <state width="1877" height="388" key="GridCell.Tab.1.left" timestamp="1598523642437">
+    <state width="1877" height="388" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598524875831" />
+    <state width="1877" height="388" key="GridCell.Tab.1.left" timestamp="1598524875831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
-    <state width="1877" height="388" key="GridCell.Tab.1.right" timestamp="1598523642437">
+    <state width="1877" height="388" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598524875831" />
+    <state width="1877" height="388" key="GridCell.Tab.1.right" timestamp="1598524875832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="388" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598523642437" />
+    <state width="1877" height="388" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598524875832" />
     <state x="697" y="221" key="RollbackChangesDialog" timestamp="1598495261976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598495261976" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1598495771246">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600052901232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598495771246" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598497774177">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600052901232" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598524387719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598497774177" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598524387719" />
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598438378829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -382,23 +395,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="662" y="254" width="596" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598433428510" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598438121636">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600054005358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598438121636" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600054005358" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/cqapplication/src/test/java/com/cq/ReflectionDemo.java</url>
+          <url>file://$PROJECT_DIR$/cqapplication/src/test/java/com/cq1/ReflectionDemo.java</url>
           <line>224</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/cqapplication/src/test/java/com/cq/ReflectionDemo.java</url>
+          <url>file://$PROJECT_DIR$/cqapplication/src/test/java/com/cq1/ReflectionDemo.java</url>
           <line>153</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cq1/commonEntity/EntityWrapper.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

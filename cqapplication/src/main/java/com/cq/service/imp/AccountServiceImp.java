@@ -2,9 +2,9 @@ package com.cq.service.imp;
 
 
 
-import com.cq.commonEntity.EntityWrapper;
-import com.cq.dao.AccountDao;
 import com.cq.entity.AccountEntity;
+import com.cq1.commonEntity.EntityWrapper;
+import com.cq.dao.AccountDao;
 import com.cq.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

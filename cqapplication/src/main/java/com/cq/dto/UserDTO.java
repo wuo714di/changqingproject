@@ -1,7 +1,5 @@
 package com.cq.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 
 /**
@@ -14,7 +12,7 @@ public class UserDTO implements BigUserDTO {
     private String name;
     private Integer age;
     //花名
-    private String FlowerName;
+    private String flowerName;
     public void setIsPublicStatus(Boolean boo){
         if (boo){
             age=0;
